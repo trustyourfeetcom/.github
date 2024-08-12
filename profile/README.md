@@ -1,7 +1,7 @@
 # TrustYourFeet
 
 <p align="center">
-  <img src="https://github.com/trustyourfeetcom/trustyourfeet-design-assets/blob/main/logos/logo_circle.png?raw=true" alt="TrustYourFeet Logo" width="200">
+  <img src="https://github.com/trustyourfeetcom/trustyourfeet-design-assets/blob/main/logos/logo_circle.png?raw=true" alt="TrustYourFeet Logo" width="150">
 </p>
 
 TrustYourFeet is an organization, founded by [Samuel Sui](https://github.com/SamJSui), focused on developing and delivering innovative software applications to aid and connect athletes. Originally designated for climbers, TrustYourFeet aims to create solutions for people of all disciplines. Our mission is to empower athletes and enhance their performance and experience by providing tools and platforms that enable them to **move forward**.
@@ -11,7 +11,7 @@ TrustYourFeet is an organization, founded by [Samuel Sui](https://github.com/Sam
 ### Overhang
 
 <p align="left">
-  <img src="https://github.com/trustyourfeetcom/overhang-design-assets/blob/main/logos/logo.png?raw=true" alt="TrustYourFeet Logo" width="200">
+  <img src="https://github.com/trustyourfeetcom/overhang-design-assets/blob/main/logos/logo.png?raw=true" alt="TrustYourFeet Logo" width="150">
 </p>
 
 **Overhang** is a social media platform designed for climbers to connect, share experiences, and improve their skills.
